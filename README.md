@@ -30,10 +30,10 @@ npm install react-tabs # react tab style
 
 ## dependencies
 
-   "chart.js": "^2.9.3",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-tabs": "^3.1.0"
+  - "chart.js": "^2.9.3",
+  - "react": "^16.13.1",
+  - "react-dom": "^16.13.1",
+  - "react-tabs": "^3.1.0"
 
 # Running code on your PC
 
