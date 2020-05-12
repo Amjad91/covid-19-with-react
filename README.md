@@ -45,14 +45,14 @@ npm install react-tabs # react tab style
 
 # Built With
 
-- [React] - (https://github.com/facebook/create-react-app) 
+- [React](https://github.com/facebook/create-react-app) 
 
 # APIs used in this project
 
-- [JSON time-series of coronavirus cases] (https://github.com/pomber/covid19) : Used for fetch chart data
+- [JSON time-series of coronavirus cases](https://github.com/pomber/covid19) : Used for fetch chart data
 
-- [COVID-19 data API Documentation] (https://rapidapi.com/Gramzivi/api/covid-19-data?endpoint=apiendpoint_5c132769-7bb2-4000-b320-f42731a7dee3) : fetch latest covid data by country
+- [COVID-19 data API Documentation](https://rapidapi.com/Gramzivi/api/covid-19-data?endpoint=apiendpoint_5c132769-7bb2-4000-b320-f42731a7dee3) : fetch latest covid data by country
 
-- [COVID-19 data API Documentation] (https://rapidapi.com/Gramzivi/api/covid-19-data?endpoint=apiendpoint_35f69513-ea31-48fd-a97d-4e2c8165d0b3) : get latest total covid cases
+- [COVID-19 data API Documentation](https://rapidapi.com/Gramzivi/api/covid-19-data?endpoint=apiendpoint_35f69513-ea31-48fd-a97d-4e2c8165d0b3) : get latest total covid cases
 
 
