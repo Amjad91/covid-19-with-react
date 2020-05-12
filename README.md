@@ -1,68 +1,58 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Covid-19 React App
 
-## Available Scripts
+This app provides latest covid-19 data in Saudi Arabia, visualizing historical data and total world cases.
 
-In the project directory, you can run:
+###### To create react app
+* [Create React App](https://github.com/facebook/create-react-app).*
 
-### `npm start`
+# Getting Started
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Prerequisites
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+1-Code editing, VS Code.
 
-### `npm test`
+## Setup
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+install npm:
 
-### `npm run build`
+```
+ npm inastall
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Or
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+npm install chart.js --save # JavaScript charting
+npm install react-tabs # react tab style 
 
-### `npm run eject`
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## dependencies
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   "chart.js": "^2.9.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-tabs": "^3.1.0"
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Running code on your PC
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+ npm start
 
-## Learn More
+ ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Built With
 
-### Code Splitting
+- [React] - (https://github.com/facebook/create-react-app) 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+# APIs used in this project
 
-### Analyzing the Bundle Size
+- [JSON time-series of coronavirus cases] (https://github.com/pomber/covid19) : Used for fetch chart data
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- [COVID-19 data API Documentation] (https://rapidapi.com/Gramzivi/api/covid-19-data?endpoint=apiendpoint_5c132769-7bb2-4000-b320-f42731a7dee3) : fetch latest covid data by country
 
-### Making a Progressive Web App
+- [COVID-19 data API Documentation] (https://rapidapi.com/Gramzivi/api/covid-19-data?endpoint=apiendpoint_35f69513-ea31-48fd-a97d-4e2c8165d0b3) : get latest total covid cases
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
