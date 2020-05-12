@@ -3,7 +3,7 @@
 This app provides latest covid-19 data in Saudi Arabia, visualizing historical data and total world cases.
 
 ###### To create react app
-* [Create React App](https://github.com/facebook/create-react-app).*
+* [Create React App](https://github.com/facebook/create-react-app).
 
 # Getting Started
 
