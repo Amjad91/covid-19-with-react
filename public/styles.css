@@ -136,6 +136,15 @@ a:hover {
     color: rgb(12, 11, 11);
 }
 @media only screen and (max-width: 600px) {
+    .container {
+        background-color: white;
+        margin-top: 40px;
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 2px 2px 2px -2px rgba(0,0,0,.2);
+        margin-bottom: 100px;
+    
+    }
     .chart {
         letter-spacing: 0px;
         position: relative;
@@ -144,14 +153,14 @@ a:hover {
         width: 350px;
     }
     .info-covid {
-        background-image: url('./images/covid_info.jpg');
-        background-repeat: no-repeat;
-        background-size: 100% 100%; 
+        background-color: #c4def6;
         margin: 0 auto;
         height: 300px;
         width: 380px;
         border-radius: 12px;
         margin-top: 50px;
+        padding-top: 20px;
+
     }
     .info-covid a {
         font-size: 10px;
