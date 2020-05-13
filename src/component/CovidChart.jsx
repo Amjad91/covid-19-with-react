@@ -120,7 +120,7 @@ componentDidMount() {
                             <Tab className="tab">Recoverd And Deaths</Tab>
                             </TabList>
                         
-                        <TabPanels style={{margin:'50px'}}>
+                        <TabPanels style={{marginTop:'50px'}}>
                      
                             <TabPanel>
                             <div className="chart">
