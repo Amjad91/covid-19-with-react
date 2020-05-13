@@ -161,16 +161,20 @@ a:hover {
         width: 380px;
         border-radius: 12px;
         margin-top: 50px;
-        padding-top: 20px;
-
     }
     .info-covid a {
-        font-size: 10px;
+        font-size: 8px;
     }
     .cases div {
         border-radius: 10px;
         margin: 10px;
         padding: 20px;
+    }
+    .app {
+        background-color: #f8f8f8;
+        margin-bottom: 300px;
+        padding-top: 20px;
+    
     }
     
   }
