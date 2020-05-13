@@ -171,6 +171,7 @@ a:hover {
         padding: 20px;
     }
     .app {
+        background-image: none;
         background-color: #f8f8f8;
         margin-bottom: 300px;
         padding-top: 20px;
