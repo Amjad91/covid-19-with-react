@@ -4,7 +4,10 @@ body {
     letter-spacing: 2px;
     background: #fafafa;
     -webkit-margin-end: 0;
-    /* background-image: url("https://www.transparenttextures.com/patterns/fabric-plaid.png"); */
+    overflow-x: hidden;
+}
+html {
+    overflow-x: hidden;
 }
 
 
