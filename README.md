@@ -1,5 +1,7 @@
 # Covid-19 React App
 
+
+[website](https://covid-19-ksa.netlify.app/)
 This app provides latest covid-19 data in Saudi Arabia, visualizing historical data and total world cases.
 
 ###### To create react app
