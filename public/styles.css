@@ -177,5 +177,9 @@ a:hover {
         padding-top: 20px;
     
     }
+   .separator {
+        letter-spacing: 0px;
+        font-size: 10px;
+    }
     
   }
