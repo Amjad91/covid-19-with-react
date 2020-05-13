@@ -9,8 +9,8 @@ function AppInfo(){
       <div>
       <section id="info">       
          <span className="separator">Information about Covid-19</span>
-         <div className="container" class="info-covid">
-         <a href="http://www.freepik.com">Designed by Freepik</a>
+         <div className="container info-covid">
+         <a href="http://www.freepik.com" style={{float: "left"}}>Designed by Freepik</a>
          </div>
       </section>
 
