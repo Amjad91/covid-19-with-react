@@ -156,4 +156,10 @@ a:hover {
     .info-covid a {
         font-size: 10px;
     }
+    .cases div {
+        border-radius: 10px;
+        margin: 10px;
+        padding: 20px;
+    }
+    
   }
