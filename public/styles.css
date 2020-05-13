@@ -153,7 +153,9 @@ a:hover {
         width: 350px;
     }
     .info-covid {
-        background-color: #c4def6;
+       background-image: url('./images/covid_info.jpg');
+        background-repeat: no-repeat;
+        background-size: 100% 100%; 
         margin: 0 auto;
         height: 300px;
         width: 380px;
